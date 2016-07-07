@@ -1,0 +1,78 @@
+{% extends 'shared/ff-abntex2-template-base.tex' %}
+
+{% block cover %}
+\makeatletter
+\renewcommand{\imprimircapa}{%
+  \begin{capa}%
+    \center
+    {\abntex@ifnotempty{\imprimirinstituicao}{\imprimirinstituicao\vfill}}
+    
+    {\ABNTEXchapterfont\ABNTEXsectionfontsize\imprimirautor}
+
+    \vfill
+    \begin{center}
+    {\ABNTEXchapterfont\bfseries\ABNTEXsectionfontsize\imprimirtitulo}
+    \end{center}
+    
+    \vfill
+    {\ABNTEXchapterfont\ABNTEXsubsectionfontsize\imprimirtipotrabalho}
+    
+    \abntex@ifnotempty{\volume}{%
+      \vspace*{\fill}
+      {\ABNTEXchapterfont\ABNTEXsubsectionfontsize\volume}
+    }%
+    
+    \vfill
+    
+    {\ABNTEXchapterfont\ABNTEXsubsectionfontsize\imprimirlocal}
+	\\
+    {\ABNTEXchapterfont\ABNTEXsubsectionfontsize\imprimirdata}
+    
+  \end{capa}
+}
+\makeatother
+{% endblock %}
+
+{% block backcover %}
+\makeatletter
+\renewcommand{\folhaderostocontent}{
+  \begin{center}
+
+    %\vspace*{1cm}
+    {\ABNTEXchapterfont\ABNTEXsectionfontsize\imprimirautor}
+    
+    \vspace*{\fill}\vspace*{\fill}
+    \begin{center}
+      {\ABNTEXchapterfont\bfseries\ABNTEXsectionfontsize\imprimirtitulo}
+    \end{center}
+    \vspace*{\fill}
+    
+    \abntex@ifnotempty{\imprimirpreambulo}{%
+      \hspace{.45\textwidth}
+      \begin{minipage}{.5\textwidth}
+        \SingleSpacing
+         \imprimirpreambulo
+         \SingleSpacing
+         \par
+         {\imprimirorientadorRotulo~\imprimirorientador\par}
+            \abntex@ifnotempty{\imprimircoorientador}{%
+               {\imprimircoorientadorRotulo~\imprimircoorientador}%
+            }%
+       \end{minipage}%
+       \vspace*{\fill}
+    }%
+
+    \abntex@ifnotempty{\volume}{%
+      {\ABNTEXchapterfont\ABNTEXsubsectionfontsize\volume}
+    }%
+
+    \vfill
+
+    {\ABNTEXchapterfont\ABNTEXsubsectionfontsize\imprimirlocal}
+    \\
+    {\ABNTEXchapterfont\ABNTEXsubsectionfontsize\imprimirdata}
+
+  \end{center}
+}
+\makeatother
+{% endblock %}

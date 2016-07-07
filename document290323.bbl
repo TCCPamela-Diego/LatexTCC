@@ -1,0 +1,212 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{v-1.9.6 }
+
+\bibitem{62952}
+\abntrefinfo{Wikip\'edia}{WIKIP\'EDIA}{2008}
+{WIKIP\'EDIA. \emph{{Instituto Federal de Pernambuco}}. 2008.
+Acessado em 25/03/15.
+Dispon{\'\i}vel em:
+  \url{http://pt.wikipedia.org/wiki/Instituto\_Federal\_de\_Pernambuco,}.}
+
+\bibitem{62241}
+\abntrefinfo{ABNT}{ABNT}{2005}
+{ABNT. \emph{{ABNT ISO/IEC 27002}}.
+[S.l.], 2005.}
+
+\bibitem{62949}
+\abntrefinfo{Tech}{TECH}{2011}
+{TECH, G. \emph{{Hacker do ps3 culpa arrog\^ancia da sony por vazamento de
+  dados da psn}}. 2011.
+Acessado em 29/03/15.
+Dispon{\'\i}vel em:
+  \url{http://www.relacionamentodigital.com/anal-o-que-e-seguranca-da-informacao}.}
+
+\bibitem{62951}
+\abntrefinfo{Veja}{VEJA}{2011}
+{VEJA. \emph{{Sony \'e alvo de a{\c c}{\~a}o por vazamento de dados do ps3}}.
+  2011.
+Acessado em 25/03/15.
+Dispon{\'\i}vel em:
+  \url{http://veja.abril.com.br/noticia/vida-digital/sony-e-alvo-de-acao-por-vazamento-de-dados-do-ps2/}.}
+
+\bibitem{62948}
+\abntrefinfo{Kurtz}{KURTZ}{2014}
+{KURTZ, J. \emph{{Apple investiga vazamento de fotos {\'\i}ntimas de
+  celebridades no icloud}}. 2014.
+Acessado em 14/04/15.
+Dispon{\'\i}vel em:
+  \url{http://veja.abril.com.br/noticia/vida-digital/sony-e-alvo-de-acao-por-vazamento-de-dados-do-ps2/}.}
+
+\bibitem{62228}
+\abntrefinfo{{Cert}}{{Cert}}{}
+{{Cert}. \emph{{Cartilha de Seguran{\c c}a na Internet}}.
+Acessado em 17/06/2016.
+Dispon{\'\i}vel em: \url{http://cartilha.cert.br/ataques/}.}
+
+\bibitem{62231}
+\abntrefinfo{Segura}{SEGURA}{}
+{SEGURA, E.~R. \emph{{S\'erie ataques: Saiba mais sobre o Cross-Site Scripting
+  (XSS)}}.
+Acessado em 19/06/2016.
+Dispon{\'\i}vel em:
+  \url{http://www.redesegura.com.br/2012/01/saiba-mais-sobre-o-cross-site-scripting-xss}.}
+
+\bibitem{62233}
+\abntrefinfo{Salvo}{SALVO}{2011}
+{SALVO, N. \emph{{O dia que o Ganso foi pro Corinthians, eu virei um hacker
+  (?!) e o Santos decidiu me Processar}}. 2011.
+Acessado em 19/06/2016.
+Dispon{\'\i}vel em:
+  \url{http://www.naosalvo.com.br/o-dia-em-que-o-ganso-foi-para-o-corinthians-eu-virei-um-hacker-e-o-santos-decidiu-me-processar}.}
+
+\bibitem{62127}
+\abntrefinfo{Pauli}{PAULI}{2014}
+{PAULI, J. \emph{{Introdu{\c c}{\~a}o ao Web Hacking: Ferramentas e t\'ecnicas
+  para invas{\~a}o de aplica{\c c}{\~o}es web}}. [S.l.]: EL SEVIER INC, 2014.
+  Acessado em 01/.
+ISBN 978-85-7522-391-8.}
+
+\bibitem{62235}
+\abntrefinfo{Bernardo}{BERNARDO}{}
+{BERNARDO, K. \emph{{Kanban: Do in{\'\i}cio ao fim!}}
+Acessado em 21/06/2016.
+Dispon{\'\i}vel em:
+  \url{http://www.culturaagil.com.br/kanban-do-inicio-ao-fim/}.}
+
+\bibitem{62123}
+\abntrefinfo{DesenvolvimentoAgil.com.br}{DESENVOLVIMENTOAGIL.COM.BR}{}
+{DESENVOLVIMENTOAGIL.COM.BR. \emph{{SCRUM}}.
+Acessado em 21/06/2016.
+Dispon{\'\i}vel em: \url{http://www.desenvolvimentoagil.com.br/scrum/}.}
+
+\bibitem{62218}
+\abntrefinfo{Pauli}{PAULI}{2013}
+{PAULI, D. \emph{{BackTrack successor Kali Linux launched}}. 2013.
+Acessado em 19/06/2016.
+Dispon{\'\i}vel em:
+  \url{http://www.itnews.com.au/news/backtrack-successor-kali-launched-336420}.}
+
+\bibitem{62219}
+\abntrefinfo{Security}{SECURITY}{}
+{SECURITY, O. \emph{{Kali Linux Tools Listing}}.
+Acessado em 19/06/2016.
+Dispon{\'\i}vel em: \url{http://tools.kali.org/tools-listing}.}
+
+\bibitem{62216}
+\abntrefinfo{Linux}{LINUX}{}
+{LINUX, K. \emph{{Kali Linux}}.
+Acessado em 19/06/2016.
+Dispon{\'\i}vel em: \url{https://www.kali.org}.}
+
+\bibitem{62221}
+\abntrefinfo{Dlabal}{DLABAL}{}
+{DLABAL, J. \emph{{H Y D R A}}.
+Acessado em 19/06/2016.
+Dispon{\'\i}vel em: \url{https://github.com/vanhauser-thc/thc-hydra}.}
+
+\bibitem{62222}
+\abntrefinfo{sqlmapproject}{SQLMAPPROJECT}{}
+{SQLMAPPROJECT. \emph{{sqlmap}}.
+Acessado em 19/06/2016.
+Dispon{\'\i}vel em: \url{https://github.com/sqlmapproject/sqlmap}.}
+
+\bibitem{62223}
+\abntrefinfo{Insecure.org}{INSECURE.ORG}{}
+{INSECURE.ORG. \emph{{Featured News}}.
+Acessado em 19/06/2016.
+Dispon{\'\i}vel em: \url{http://insecure.org/}.}
+
+\bibitem{62224}
+\abntrefinfo{Portswigger}{PORTSWIGGER}{}
+{PORTSWIGGER. \emph{{Burp Suite}}.
+Acessado em 17/06/2016.
+Dispon{\'\i}vel em: \url{https://portswigger.net/burp}.}
+
+\bibitem{62226}
+\abntrefinfo{Rapid7}{RAPID7}{}
+{RAPID7. \emph{{Metasploit Framework}}.
+Acessado em 17/06/2016.
+Dispon{\'\i}vel em: \url{https://github.com/rapid7/metasploit-framework}.}
+
+\bibitem{62204}
+\abntrefinfo{Weidman}{WEIDMAN}{2014}
+{WEIDMAN, G. \emph{{Testes de Invas{\~a}o: Uma introdu{\c c}{\~a}o pr\'atica ao
+  hacking}}. [S.l.]: No Starch Press, 2014.
+ISBN 978-85-7522-407-6.}
+
+\bibitem{62225}
+\abntrefinfo{Rapid7}{RAPID7}{}
+{RAPID7. \emph{{Metasploit}}.
+Acessado em 17/06/2016.
+Dispon{\'\i}vel em: \url{https://www.metasploit.com/}.}
+
+\bibitem{62203}
+\abntrefinfo{Slain}{SLAIN}{2016}
+{SLAIN, M. \emph{{Announcing Our Worst Passwords of 2015}}. 2016.
+Acessado em 07/05/2016.
+Dispon{\'\i}vel em: \url{https://www.teamsid.com/worst-passwords-2015/}.}
+
+\bibitem{62214}
+\abntrefinfo{Oracle}{ORACLE}{}
+{ORACLE. \emph{{Comment}}.
+[S.l.]. Acessado em 16/05/2016. Dispon{\'\i}vel em:
+  \url{http://docs.oracle.com/cd/B28359\_01/appdev.111/b28370/comment.htm}.}
+
+\bibitem{62213}
+\abntrefinfo{{Coment\'arios}}{{Coment\'arios}}{}
+{{Coment\'arios}.
+Acessado em 16/05/2016.
+Dispon{\'\i}vel em:
+  \url{https://technet.microsoft.com/pt-br/library/ms188621(v=sql.105).aspx}.}
+
+\bibitem{62212}
+\abntrefinfo{MySql}{MYSQL}{}
+{MYSQL. \emph{{Comment Syntax}}.
+[S.l.]. Acessado em 14/05/2016. Dispon{\'\i}vel em:
+  \url{http://dev.mysql.com/doc/refman/5.7/en/comments.html}.}
+
+\bibitem{62208}
+\abntrefinfo{Wikip\'edia}{WIKIP\'EDIA}{a}
+{WIKIP\'EDIA. \emph{{NetBIOS}}.
+Acessado em 09/05/2016.
+Dispon{\'\i}vel em: \url{https://pt.wikipedia.org/wiki/NetBIOS}.}
+
+\bibitem{62209}
+\abntrefinfo{Wikip\'edia}{WIKIP\'EDIA}{b}
+{WIKIP\'EDIA. \emph{{Simple Network Management Protocol}}.
+Acessado em 09/05/2016.
+Dispon{\'\i}vel em:
+  \url{https://pt.wikipedia.org/wiki/Simple\_Network\_Management\_Protocol}.}
+
+\bibitem{62215}
+\abntrefinfo{Wikip\'edia}{WIKIP\'EDIA}{c}
+{WIKIP\'EDIA. \emph{{Protocolo de encapsulamento de camada 2 (L2TP)}}.
+Acessado em 09/05/2016.
+Dispon{\'\i}vel em:
+  \url{https://technet.microsoft.com/pt-br/library/cc736675(v=ws.10).aspx}.}
+
+\bibitem{62207}
+\abntrefinfo{Wikip\'edia}{WIKIP\'EDIA}{d}
+{WIKIP\'EDIA. \emph{{Network Time Protocol}}.
+Acessado em 09/05/2016.
+Dispon{\'\i}vel em:
+  \url{https://pt.wikipedia.org/wiki/Network\_Time\_Protocol}.}
+
+\bibitem{62205}
+\abntrefinfo{https://hackertarget.com}{HTTPS://HACKERTARGET.COM}{}
+{HTTPS://HACKERTARGET.COM. \emph{{https://hackertarget.com}}.
+Acessado em 09/05/2016.
+Dispon{\'\i}vel em:
+  \url{https://hackertarget.com/sqlmap-post-request-injection/}.}
+
+\bibitem{62210}
+\abntrefinfo{software.dzhuvinov.com}{SOFTWARE.DZHUVINOV.COM}{}
+{SOFTWARE.DZHUVINOV.COM. \emph{{Cors Filter}}.
+Acessado em 09/05/2016.
+Dispon{\'\i}vel em: \url{http://software.dzhuvinov.com/cors-filter.html}.}
+
+\end{thebibliography}
