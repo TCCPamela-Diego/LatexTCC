@@ -289,22 +289,22 @@
 \renewcommand{\imprimircapa}{%
   \begin{capa}%
     \center
-    {\abntex@ifnotempty{\imprimirinstituicao}{\imprimirinstituicao\vfill}}
-    
-    {\ABNTEXchapterfont\ABNTEXsectionfontsize\imprimirautor}
-
-    \vfill
+    {\abntex@ifnotempty{\imprimirinstituicao}{\imprimirinstituicao}}
+		
+		\vfill
+		\begin{figure}[h]
+			\centering
+			\includegraphics[width=2cm,height=2cm]{ifpeSimbolo.jpeg}
+			\end{figure}
+		\ifdefined\FloatBarrier \FloatBarrier \fi
+	
+   \vfill
     \begin{center}
     {\ABNTEXchapterfont\bfseries\ABNTEXsectionfontsize\imprimirtitulo}
     \end{center}
-    
-    \vfill
-    {\ABNTEXchapterfont\ABNTEXsubsectionfontsize\imprimirtipotrabalho}
-    
-    \abntex@ifnotempty{\volume}{%
-      \vspace*{\fill}
-      {\ABNTEXchapterfont\ABNTEXsubsectionfontsize\volume}
-    }%
+	
+			\vfill
+		 {\ABNTEXchapterfont\ABNTEXsectionfontsize\imprimirautor}
     
     \vfill
     
@@ -323,14 +323,11 @@
   \begin{center}
 
     %\vspace*{1cm}
-    {\ABNTEXchapterfont\ABNTEXsectionfontsize\imprimirautor}
-    
-    \vspace*{\fill}\vspace*{\fill}
     \begin{center}
       {\ABNTEXchapterfont\bfseries\ABNTEXsectionfontsize\imprimirtitulo}
     \end{center}
     \vspace*{\fill}
-    
+		
     \abntex@ifnotempty{\imprimirpreambulo}{%
       \hspace{.45\textwidth}
       \begin{minipage}{.5\textwidth}
@@ -575,39 +572,13 @@ brazil%
 % Dedicatória
 % ---
 
-
-\begin{dedicatoria}
-   \vspace*{\fill}
-   \centering
-   \noindent
-   \itshape 
-\begin{flushright}
-~
-\end{flushright}
-
-
-
 \chapter*{Dedicatória}\addcontentsline{toc}{chapter}{Dedicatória}
 
 
-\begin{flushright}
-~
-\end{flushright}
-
-
-
-\begin{flushright}
-~
-\end{flushright}
-
-
-
-\begin{flushright}
+\hspace{.45\textwidth}
+      \begin{minipage}{.5\textwidth}
 Gostaria de agradecer aos meus pais cuja dedicação e apoio me motivaram a estar no patamar onde estou. Aos meus amigos e a minha namorada pelas tantas lutas diárias que enfrentamos juntos ao longo desses difíceis anos de curso sem esmorecer um minuto. A~minha querida amiga Pâmela Beatriz, pelo empenho e por sempre me manter motivado. Ao nosso orientador,Marcos André~ por aceitar o desafio e nos guiar de forma brilhante ao longo do trabalho. A professora Renata Freire cuja assistência foi essencial para me ajudar em problemas dificeis e ao Professor Francisco Granata pela grande ajuda.
-\end{flushright}
-
-
-
+\end{minipage}
 
 
 \begin{flushright}
@@ -615,32 +586,16 @@ Diego Antônio
 \end{flushright}
 
 
-
-\begin{flushright}
-~
-\end{flushright}
-
-
-
-\begin{flushright}
+\hspace{.45\textwidth}
+      \begin{minipage}{.5\textwidth}
 Primeiramente a Deus,~por ter me concedido sabedoria e saúde para chegar até aqui. A minha família que sempre se esforçou para me conceder as melhores oportunidades e por todos os bons valores transmitidos a mim.~Ao meu esposo, que esteve sempre ao meu lado me auxiliando e~me dando apoio em todos os momentos.~Aos professores por todo o ensinamento. Ao meu amigo Diego Antônio~por enfrentarmos juntos essa jornada, e por sua~dedicação e esforço ao ter divido esse trabalho comigo. Ao nosso orientador Marcos~André, por toda a dedicação e grande apoio para nos ajudar a fazer sempre o nosso melhor.~Para todos os que depositaram expectativas~em mim e de alguma forma contrubuíram para o meu sucesso.
-\end{flushright}
-
-
-
-\begin{flushright}
-~
-\end{flushright}
-
-
+\end{minipage}
 
 \begin{flushright}
 Pâmela Beatriz
 \end{flushright}
 
- \vspace*{\fill}
-\end{dedicatoria}
-
+\newpage
 
 % ---
 
@@ -4904,17 +4859,6 @@ Outra caracteristica que demonstra a criticidade dessa última vulnerabilidade �
 
 
 Dessa forma,os testes demonstram que o sistema é vulnerável a apenas dois dos tipos de ataques testados.
-
-
-
-
-
-
-
-
-
-
-
 
 
 %\begin{enumerate}[start=1]

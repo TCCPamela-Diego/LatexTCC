@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.7.7)  12 JUL 2016 18:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.7.7)  12 JUL 2016 20:25
 entering extended mode
 **document290323.tex
 (document290323.tex
@@ -1367,33 +1367,33 @@ Package hyperref Warning: Unexpected value for option `hidelinks'
 \document290323@idxfile=\write4
 Writing index file document290323.idx 
 (document290323.aux)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 462.
-LaTeX Font Info:    ... okay on input line 462.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 462.
-LaTeX Font Info:    ... okay on input line 462.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 462.
-LaTeX Font Info:    ... okay on input line 462.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 462.
-LaTeX Font Info:    ... okay on input line 462.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 462.
-LaTeX Font Info:    ... okay on input line 462.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 462.
-LaTeX Font Info:    ... okay on input line 462.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 462.
-LaTeX Font Info:    ... okay on input line 462.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 462.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 462.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 447.
+LaTeX Font Info:    ... okay on input line 447.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 447.
+LaTeX Font Info:    ... okay on input line 447.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 447.
+LaTeX Font Info:    ... okay on input line 447.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 447.
+LaTeX Font Info:    ... okay on input line 447.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 447.
+LaTeX Font Info:    ... okay on input line 447.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 447.
+LaTeX Font Info:    ... okay on input line 447.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 447.
+LaTeX Font Info:    ... okay on input line 447.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 447.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 447.
  ("C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 462.
-LaTeX Font Info:    Try loading font information for T1+ua1 on input line 462.
+LaTeX Font Info:    ... okay on input line 447.
+LaTeX Font Info:    Try loading font information for T1+ua1 on input line 447.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\arial\t1ua1.fd"
 File: t1ua1.fd 2006/03/21 Fontinst v1.928 font definitions for T1/ua1.
 )
 \AtBeginShipoutBox=\box41
-Package hyperref Info: Link coloring OFF on input line 462.
+Package hyperref Info: Link coloring OFF on input line 447.
  ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
@@ -1404,18 +1404,18 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 Redoing nameref's sectioning
 Redoing nameref's label
-LaTeX Info: Redefining \nameref on input line 462.
-LaTeX Info: Redefining \ref on input line 462.
-LaTeX Info: Redefining \pageref on input line 462.
-LaTeX Info: Redefining \nameref on input line 462.
-LaTeX Info: Redefining \degres on input line 462.
-LaTeX Info: Redefining \dots on input line 462.
-LaTeX Info: Redefining \up on input line 462.
+LaTeX Info: Redefining \nameref on input line 447.
+LaTeX Info: Redefining \ref on input line 447.
+LaTeX Info: Redefining \pageref on input line 447.
+LaTeX Info: Redefining \nameref on input line 447.
+LaTeX Info: Redefining \degres on input line 447.
+LaTeX Info: Redefining \dots on input line 447.
+LaTeX Info: Redefining \up on input line 447.
 \myptabbox=\box42
 \myptabboxwidth=\skip258
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 462.
+(lastpage)             ! on input line 447.
 ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count224
@@ -1430,7 +1430,7 @@ Package lastpage Info: Please have a look at the pageslts package at
 \makeMPintoPDFobject=\count267
 \everyMPtoPDFconversion=\toks50
 )
-LaTeX Info: Redefining \microtypecontext on input line 462.
+LaTeX Info: Redefining \microtypecontext on input line 447.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -1446,14 +1446,14 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             See the microtype manual for details.
 \symgns@font=\mathgroup6
 LaTeX Font Info:    Overwriting symbol font `gns@font' in version `bold'
-(Font)                  TS1/ua1/m/n --> TS1/ua1/bx/n on input line 462.
-Package gensymb Info: Math companion symbols declared on input line 462.
-LaTeX Info: Redefining \degree on input line 462.
-LaTeX Info: Redefining \celsius on input line 462.
-Package gensymb Info: Using text companion symbols for \degree, \celsius and \perthousand on input line 462.
-LaTeX Info: Redefining \ohm on input line 462.
-Package gensymb Info: Using \textohm for \ohm on input line 462.
-Package gensymb Info: Using \textmu for \micro on input line 462.
+(Font)                  TS1/ua1/m/n --> TS1/ua1/bx/n on input line 447.
+Package gensymb Info: Math companion symbols declared on input line 447.
+LaTeX Info: Redefining \degree on input line 447.
+LaTeX Info: Redefining \celsius on input line 447.
+Package gensymb Info: Using text companion symbols for \degree, \celsius and \perthousand on input line 447.
+LaTeX Info: Redefining \ohm on input line 447.
+Package gensymb Info: Using \textohm for \ohm on input line 447.
+Package gensymb Info: Using \textmu for \micro on input line 447.
  ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\pdflscape.sty"
 Package: pdflscape 2008/08/11 v0.10 Display of landscape pages in PDF (HO)
 
@@ -1467,50 +1467,57 @@ Package caption Info: floatrow package is loaded.
 Package caption Info: xtab package is loaded.
 Package caption Info: End \AtBeginDocument code.
 LaTeX Font Info:    Font shape `T1/ua1/bx/n' in size <12> not available
-(Font)              Font shape `T1/ua1/b/n' tried instead on input line 493.
+(Font)              Font shape `T1/ua1/b/n' tried instead on input line 478.
+ <ifpeSimbolo.jpeg, id=3, 88.83188pt x 109.91063pt>
+File: ifpeSimbolo.jpeg Graphic file (type jpg)
+
+<use ifpeSimbolo.jpeg>
+Package pdftex.def Info: ifpeSimbolo.jpeg used on input line 478.
+(pdftex.def)             Requested size: 56.90642pt x 56.90395pt.
  [1
 
-{C:/Users/Diego/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 503.
- ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\ot1lmr.fd"
+{C:/Users/Diego/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./ifpeSimbolo.jpeg>]
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 488.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\lm\ot1lmr.fd"
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\mt-cmr.cfg"
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\mt-cmr.cfg"
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
 )
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 503.
- ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\omllmm.fd"
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 488.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\lm\omllmm.fd"
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 503.
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\lm\omslmsy.fd"
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 488.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\omslmsy.fd"
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 503.
- ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\omxlmex.fd"
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 488.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\lm\omxlmex.fd"
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 503.
+(Font)              <12> on input line 488.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 503.
+(Font)              <8> on input line 488.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 503.
-LaTeX Font Info:    Try loading font information for U+msa on input line 503.
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+(Font)              <6> on input line 488.
+LaTeX Font Info:    Try loading font information for U+msa on input line 488.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-) ("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\mt-msa.cfg"
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\mt-msa.cfg"
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 503.
+LaTeX Font Info:    Try loading font information for U+msb on input line 488.
  ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) ("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\mt-msb.cfg"
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
-LaTeX Font Info:    Try loading font information for TS1+ua1 on input line 503.
+LaTeX Font Info:    Try loading font information for TS1+ua1 on input line 488.
  ("C:\Program Files\MiKTeX 2.9\tex\latex\arial\ts1ua1.fd"
 File: ts1ua1.fd 2006/03/21 Fontinst v1.928 font definitions for TS1/ua1.
 )
@@ -1521,493 +1528,485 @@ Package microtype Info: Loading generic settings for font family
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.503 
+l.488 
        [1
 
 
 
 ]
-Underfull \hbox (badness 2189) in paragraph at lines 557--561
+Underfull \hbox (badness 2189) in paragraph at lines 542--546
 []\T1/ua1/b/n/12 IMPORTANTE: \T1/ua1/m/n/12 (+20) ESSE É APE-NAS UM
  []
 
 [2
 
-] [3
-
 ]
 LaTeX Font Info:    Font shape `T1/ua1/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/ua1/b/n' tried instead on input line 602.
- [4
+(Font)              Font shape `T1/ua1/b/n' tried instead on input line 575.
 
-] [5
-
-] [6
-
-] (document290323.lof [7
-
-]) [8] [9
-
-
-] (document290323.toc [10
-
-
-]
-Overfull \hbox (1.41595pt too wide) detected at line 49
- \T1/ua1/b/n/12 100
+Overfull \hbox (16.76927pt too wide) in paragraph at lines 578--582
+[]  $[]$ 
  []
 
-) [11] [12
+
+Overfull \hbox (16.76927pt too wide) in paragraph at lines 589--593
+[]  $[]$ 
+ []
+
+[3
 
 
-] [13] [14] [15
+] [4] [5
 
-] [16]
+] (document290323.lof) [6
 
-LaTeX Warning: Command \textless invalid in math mode on input line 1009.
-
-
-LaTeX Warning: Command \textgreater invalid in math mode on input line 1009.
+] [7
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 1009.
+] (document290323.toc) [8
 
 
-LaTeX Warning: Command \textgreater invalid in math mode on input line 1009.
+] [9
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 1033.
+] [10] [11] [12
+
+] [13]
+
+LaTeX Warning: Command \textless invalid in math mode on input line 952.
 
 
-LaTeX Warning: Command \textgreater invalid in math mode on input line 1033.
+LaTeX Warning: Command \textgreater invalid in math mode on input line 952.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 1033.
+LaTeX Warning: Command \textless invalid in math mode on input line 952.
 
 
-LaTeX Warning: Command \textgreater invalid in math mode on input line 1033.
+LaTeX Warning: Command \textgreater invalid in math mode on input line 952.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 1042.
+LaTeX Warning: Command \textless invalid in math mode on input line 976.
 
 
-LaTeX Warning: Command \textgreater invalid in math mode on input line 1042.
+LaTeX Warning: Command \textgreater invalid in math mode on input line 976.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 1042.
+LaTeX Warning: Command \textless invalid in math mode on input line 976.
 
 
-LaTeX Warning: Command \textgreater invalid in math mode on input line 1042.
+LaTeX Warning: Command \textgreater invalid in math mode on input line 976.
 
-[17] [18] [19] [20] [21
+
+LaTeX Warning: Command \textless invalid in math mode on input line 985.
+
+
+LaTeX Warning: Command \textgreater invalid in math mode on input line 985.
+
+
+LaTeX Warning: Command \textless invalid in math mode on input line 985.
+
+
+LaTeX Warning: Command \textgreater invalid in math mode on input line 985.
+
+[14] [15] [16] [17] [18
 
 ]
 LaTeX Font Info:    Font shape `T1/ua1/bx/n' in size <10> not available
-(Font)              Font shape `T1/ua1/b/n' tried instead on input line 1238.
- <image1.jpeg, id=317, 499.11469pt x 353.06906pt>
+(Font)              Font shape `T1/ua1/b/n' tried instead on input line 1181.
+ <image1.jpeg, id=172, 499.11469pt x 353.06906pt>
 File: image1.jpeg Graphic file (type jpg)
  <use image1.jpeg>
-Package pdftex.def Info: image1.jpeg used on input line 1239.
+Package pdftex.def Info: image1.jpeg used on input line 1182.
 (pdftex.def)             Requested size: 451.68915pt x 319.53166pt.
- [22 <./image1.jpeg>]
-<image12.jpeg, id=330, 496.85625pt x 382.42876pt>
+ [19 <./image1.jpeg>]
+<image12.jpeg, id=186, 496.85625pt x 382.42876pt>
 File: image12.jpeg Graphic file (type jpg)
  <use image12.jpeg>
-Package pdftex.def Info: image12.jpeg used on input line 1262.
+Package pdftex.def Info: image12.jpeg used on input line 1205.
 (pdftex.def)             Requested size: 461.72668pt x 355.39246pt.
 
-Overfull \hbox (6.72668pt too wide) in paragraph at lines 1262--1263
+Overfull \hbox (6.72668pt too wide) in paragraph at lines 1205--1206
  [][] 
  []
 
-[23 <./image12.jpeg>] <image8.jpeg, id=339, 505.13719pt x 351.56343pt>
+[20 <./image12.jpeg>] <image8.jpeg, id=196, 505.13719pt x 351.56343pt>
 File: image8.jpeg Graphic file (type jpg)
  <use image8.jpeg>
-Package pdftex.def Info: image8.jpeg used on input line 1288.
+Package pdftex.def Info: image8.jpeg used on input line 1231.
 (pdftex.def)             Requested size: 451.68915pt x 314.37103pt.
- [24 <./image8.jpeg>]
-<image2.jpeg, id=352, 660.4675pt x 491.8375pt>
+ [21 <./image8.jpeg>]
+<image2.jpeg, id=209, 660.4675pt x 491.8375pt>
 File: image2.jpeg Graphic file (type jpg)
  <use image2.jpeg>
-Package pdftex.def Info: image2.jpeg used on input line 1347.
+Package pdftex.def Info: image2.jpeg used on input line 1290.
 (pdftex.def)             Requested size: 451.68915pt x 336.37381pt.
- [25 <./image2.jpeg>]
-<image1.png, id=364, 903.375pt x 658.46pt>
+ [22 <./image2.jpeg>]
+<image1.png, id=222, 903.375pt x 658.46pt>
 File: image1.png Graphic file (type png)
  <use image1.png>
-Package pdftex.def Info: image1.png used on input line 1391.
+Package pdftex.def Info: image1.png used on input line 1334.
 (pdftex.def)             Requested size: 451.68915pt x 329.23924pt.
- [26] [27 <./image1.png>] [28]
-Overfull \hbox (2.34389pt too wide) in paragraph at lines 1471--1471
+ [23] [24 <./image1.png>] [25]
+Overfull \hbox (2.34389pt too wide) in paragraph at lines 1414--1414
 \T1/ua1/b/n/10 Teste|  
  []
 
 
-Overfull \hbox (2.34389pt too wide) in paragraph at lines 1471--1471
+Overfull \hbox (2.34389pt too wide) in paragraph at lines 1414--1414
 \T1/ua1/b/n/10 Teste|  
  []
 
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 1472.
+(Font)              <10> on input line 1415.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 1472.
+(Font)              <7> on input line 1415.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 1472.
-[29
+(Font)              <5> on input line 1415.
+[26
 
-]
-Overfull \hbox (2.34389pt too wide) in paragraph at lines 1477--1477
-\T1/ua1/b/n/10 Teste|  
- []
-
-
-Overfull \hbox (2.34389pt too wide) in paragraph at lines 1477--1477
-\T1/ua1/b/n/10 Teste|  
- []
-
-[30] [31] <imagearquiteturaambientedetestes.jpeg, id=406, 370.38374pt x 352.31625pt>
+] [27] [28] <imagearquiteturaambientedetestes.jpeg, id=268, 370.38374pt x 352.31625pt>
 File: imagearquiteturaambientedetestes.jpeg Graphic file (type jpg)
 
 <use imagearquiteturaambientedetestes.jpeg>
-Package pdftex.def Info: imagearquiteturaambientedetestes.jpeg used on input line 1792.
+Package pdftex.def Info: imagearquiteturaambientedetestes.jpeg used on input line 1735.
 (pdftex.def)             Requested size: 383.4339pt x 364.73372pt.
- [32] [33 <./imagearquiteturaambientedetestes.jpeg>] [34] [35] [36] [37]
-[38] [39] [40] <imagem2Editada.jpeg, id=533, 161.85469pt x 204.765pt>
+ [29] [30 <./imagearquiteturaambientedetestes.jpeg>] [31] [32] [33] [34]
+[35] [36] [37] <imagem2Editada.jpeg, id=399, 161.85469pt x 204.765pt>
 File: imagem2Editada.jpeg Graphic file (type jpg)
  <use imagem2Editada.jpeg>
-Package pdftex.def Info: imagem2Editada.jpeg used on input line 2238.
+Package pdftex.def Info: imagem2Editada.jpeg used on input line 2181.
 (pdftex.def)             Requested size: 215.80704pt x 273.037pt.
- [41 <./imagem2Editada.jpeg>]
-Overfull \hbox (4.13458pt too wide) in paragraph at lines 2288--2289
+ [38 <./imagem2Editada.jpeg>]
+Overfull \hbox (4.13458pt too wide) in paragraph at lines 2231--2232
 []\T1/ua1/m/n/12 (-20) Fazer uma re-qui-si-ção ao ser-vi-dor uti-li-zando a url no-me-Sis-tema/login.php?logado=
  []
 
-[42]
-Overfull \hbox (138.78653pt too wide) in paragraph at lines 2321--2322
+[39]
+Overfull \hbox (138.78653pt too wide) in paragraph at lines 2264--2265
 []\T1/ua1/m/n/12 (-20) Fazer uma re-qui-si-ção ao ser-vi-dor uti-li-zando a url no-me-Sis-tema/login.php?logado=%2e%2e%2
 f%2e%2e%2f
  []
 
 
-Overfull \hbox (48.58734pt too wide) in paragraph at lines 2349--2350
+Overfull \hbox (48.58734pt too wide) in paragraph at lines 2292--2293
 []\T1/ua1/m/n/12 (-20) Fazer uma re-qui-si-ção ao ser-vi-dor uti-li-zando a url no-me-Sis-tema/login.php?logado=../data.
 js
  []
 
-[43]
-Overfull \hbox (32.88603pt too wide) in paragraph at lines 2384--2385
+[40]
+Overfull \hbox (32.88603pt too wide) in paragraph at lines 2327--2328
 []\T1/ua1/m/n/12 (-20) Fazer uma re-qui-si-ção ao ser-vi-dor uti-li-zando a url no-me-Sis-tema/login.php?logado=../../..
 /
  []
 
 
-Overfull \hbox (96.63454pt too wide) in paragraph at lines 2414--2415
+Overfull \hbox (96.63454pt too wide) in paragraph at lines 2357--2358
 []\T1/ua1/m/n/12 (-20) Fazer uma re-qui-si-ção ao ser-vi-dor uti-li-zando a url no-me-Sis-tema/login.php?login=teste&sen
 ha=../../../,
  []
 
 
-Overfull \hbox (69.80836pt too wide) in paragraph at lines 2445--2446
+Overfull \hbox (69.80836pt too wide) in paragraph at lines 2388--2389
 []\T1/ua1/m/n/12 (-20) Fazer uma re-qui-si-ção ao ser-vi-dor uti-li-zando a url no-me-Sis-tema/login.php?login=teste&sen
 ha=..
  []
 
-[44]
-Overfull \hbox (35.86421pt too wide) in paragraph at lines 2492--2493
+[41]
+Overfull \hbox (35.86421pt too wide) in paragraph at lines 2435--2436
 []\T1/ua1/m/n/12 (-20) Acessar a pá-gina do Lo-gin uti-li-zando a url http:// IP_do_servidor/nomeSistema/login.php. 
  []
 
-<imagem3Editada.jpeg, id=582, 95.6072pt x 75.28125pt>
+<imagem3Editada.jpeg, id=449, 95.6072pt x 75.28125pt>
 File: imagem3Editada.jpeg Graphic file (type jpg)
  <use imagem3Editada.jpeg>
-Package pdftex.def Info: imagem3Editada.jpeg used on input line 2513.
+Package pdftex.def Info: imagem3Editada.jpeg used on input line 2456.
 (pdftex.def)             Requested size: 152.57056pt x 120.15033pt.
- [45] [46 <./imagem3Editada.jpeg>]
-[47]
+ [42] [43 <./imagem3Editada.jpeg>]
+[44]
 File: image1.jpeg Graphic file (type jpg)
  <use image1.jpeg>
-Package pdftex.def Info: image1.jpeg used on input line 2690.
+Package pdftex.def Info: image1.jpeg used on input line 2633.
 (pdftex.def)             Requested size: 451.68915pt x 319.53166pt.
- [48] [49] [50] [51] <image4.jpeg, id=680, 496.10344pt x 350.81062pt>
+ [45] [46] [47] [48] <image4.jpeg, id=552, 496.10344pt x 350.81062pt>
 File: image4.jpeg Graphic file (type jpg)
  <use image4.jpeg>
-Package pdftex.def Info: image4.jpeg used on input line 2882.
+Package pdftex.def Info: image4.jpeg used on input line 2825.
 (pdftex.def)             Requested size: 451.68915pt x 319.4041pt.
- [52]
-[53 <./image4.jpeg>] <image5.jpeg, id=698, 501.37312pt x 335.75438pt>
+ [49]
+[50 <./image4.jpeg>] <image5.jpeg, id=571, 501.37312pt x 335.75438pt>
 File: image5.jpeg Graphic file (type jpg)
  <use image5.jpeg>
-Package pdftex.def Info: image5.jpeg used on input line 2949.
+Package pdftex.def Info: image5.jpeg used on input line 2892.
 (pdftex.def)             Requested size: 451.68915pt x 302.4989pt.
- [54 <./image5.jpeg>]
-<image6.jpeg, id=710, 503.63156pt x 353.82187pt>
+ [51 <./image5.jpeg>]
+<image6.jpeg, id=583, 503.63156pt x 353.82187pt>
 File: image6.jpeg Graphic file (type jpg)
  <use image6.jpeg>
-Package pdftex.def Info: image6.jpeg used on input line 3016.
+Package pdftex.def Info: image6.jpeg used on input line 2959.
 (pdftex.def)             Requested size: 451.68915pt x 317.32996pt.
- [55] [56 <./image6.jpeg>]
-<image7.jpeg, id=735, 504.38437pt x 349.305pt>
+ [52] [53 <./image6.jpeg>]
+<image7.jpeg, id=609, 504.38437pt x 349.305pt>
 File: image7.jpeg Graphic file (type jpg)
  <use image7.jpeg>
-Package pdftex.def Info: image7.jpeg used on input line 3085.
+Package pdftex.def Info: image7.jpeg used on input line 3028.
 (pdftex.def)             Requested size: 451.68915pt x 312.81523pt.
- [57 <./image7.jpeg>]
+ [54 <./image7.jpeg>]
 File: image8.jpeg Graphic file (type jpg)
  <use image8.jpeg>
-Package pdftex.def Info: image8.jpeg used on input line 3114.
+Package pdftex.def Info: image8.jpeg used on input line 3057.
 (pdftex.def)             Requested size: 451.68915pt x 314.37103pt.
- [58]
-<image9.jpeg, id=753, 511.9125pt x 365.11406pt>
+ [55]
+<image9.jpeg, id=630, 511.9125pt x 365.11406pt>
 File: image9.jpeg Graphic file (type jpg)
  <use image9.jpeg>
-Package pdftex.def Info: image9.jpeg used on input line 3168.
+Package pdftex.def Info: image9.jpeg used on input line 3111.
 (pdftex.def)             Requested size: 451.68915pt x 322.15932pt.
- [59 <./image9.jpeg>]
-<image10.jpeg, id=763, 512.66531pt x 387.69844pt>
+ [56 <./image9.jpeg>]
+<image10.jpeg, id=641, 512.66531pt x 387.69844pt>
 File: image10.jpeg Graphic file (type jpg)
  <use image10.jpeg>
-Package pdftex.def Info: image10.jpeg used on input line 3230.
+Package pdftex.def Info: image10.jpeg used on input line 3173.
 (pdftex.def)             Requested size: 451.68915pt x 341.58977pt.
- [60] [61 <./image10.jpeg>]
-Overfull \hbox (42.39082pt too wide) in paragraph at lines 3311--3312
+ [57] [58 <./image10.jpeg>]
+Overfull \hbox (42.39082pt too wide) in paragraph at lines 3254--3255
 \T1/ua1/m/it/12 (-20) ary/scanner/msf/msf_rpc_login\T1/ua1/m/n/12 (-20) . O pay-load a ser exe-cu-tado é o \T1/ua1/m/it/
 12 (-20) win-dows/meterpreter/reverse_tcp.
  []
 
-[62]
-Overfull \hbox (59.88293pt too wide) in paragraph at lines 3353--3354
+[59]
+Overfull \hbox (59.88293pt too wide) in paragraph at lines 3296--3297
 \T1/ua1/m/n/12 (-20) es-pe-cí-fico da porta RPC es-co-lhida. O pay-load a ser exe-cu-tado é o \T1/ua1/m/it/12 (-20) win-
 dows/meterpreter/reverse_tcp.
  []
 
-[63] <imagem11Editada.jpeg, id=807, 313.9228pt x 100.87688pt>
+[60] <imagem11Editada.jpeg, id=686, 313.9228pt x 100.87688pt>
 File: imagem11Editada.jpeg Graphic file (type jpg)
  <use imagem11Editada.jpeg>
-Package pdftex.def Info: imagem11Editada.jpeg used on input line 3403.
+Package pdftex.def Info: imagem11Editada.jpeg used on input line 3346.
 (pdftex.def)             Requested size: 418.56528pt x 134.50934pt.
- [64 <./imagem11Editada.jpeg>]
-<image14.jpeg, id=819, 500.62032pt x 377.91188pt>
+ [61 <./imagem11Editada.jpeg>]
+<image14.jpeg, id=699, 500.62032pt x 377.91188pt>
 File: image14.jpeg Graphic file (type jpg)
  <use image14.jpeg>
-Package pdftex.def Info: image14.jpeg used on input line 3448.
+Package pdftex.def Info: image14.jpeg used on input line 3391.
 (pdftex.def)             Requested size: 451.68915pt x 340.98828pt.
- [65 <./image14.jpeg>] [66]
-<image15.jpeg, id=840, 505.89pt x 385.44pt>
+ [62 <./image14.jpeg>] [63]
+<image15.jpeg, id=721, 505.89pt x 385.44pt>
 File: image15.jpeg Graphic file (type jpg)
  <use image15.jpeg>
-Package pdftex.def Info: image15.jpeg used on input line 3559.
+Package pdftex.def Info: image15.jpeg used on input line 3502.
 (pdftex.def)             Requested size: 451.68915pt x 344.15208pt.
- [67] [68 <./image15.jpeg>]
-<image16.jpeg, id=856, 500.62032pt x 338.76563pt>
+ [64] [65 <./image15.jpeg>]
+<image16.jpeg, id=738, 500.62032pt x 338.76563pt>
 File: image16.jpeg Graphic file (type jpg)
  <use image16.jpeg>
-Package pdftex.def Info: image16.jpeg used on input line 3629.
+Package pdftex.def Info: image16.jpeg used on input line 3572.
 (pdftex.def)             Requested size: 451.68915pt x 305.66678pt.
- [69] [70 <./image16.jpeg>]
+ [66] [67 <./image16.jpeg>]
 
-LaTeX Warning: Command \textless invalid in math mode on input line 3680.
-
-
-LaTeX Warning: Command \textgreater invalid in math mode on input line 3680.
+LaTeX Warning: Command \textless invalid in math mode on input line 3623.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 3680.
+LaTeX Warning: Command \textgreater invalid in math mode on input line 3623.
 
 
-LaTeX Warning: Command \textgreater invalid in math mode on input line 3680.
+LaTeX Warning: Command \textless invalid in math mode on input line 3623.
 
-<image17.jpeg, id=876, 513.41812pt x 380.17032pt>
+
+LaTeX Warning: Command \textgreater invalid in math mode on input line 3623.
+
+<image17.jpeg, id=760, 513.41812pt x 380.17032pt>
 File: image17.jpeg Graphic file (type jpg)
  <use image17.jpeg>
-Package pdftex.def Info: image17.jpeg used on input line 3704.
+Package pdftex.def Info: image17.jpeg used on input line 3647.
 (pdftex.def)             Requested size: 451.68915pt x 334.4639pt.
- [71]
+ [68]
 
-LaTeX Warning: Command \textless invalid in math mode on input line 3733.
+LaTeX Warning: Command \textless invalid in math mode on input line 3676.
 
-[72 <./image17.jpeg>]
+[69 <./image17.jpeg>]
 
-LaTeX Warning: Command \textgreater invalid in math mode on input line 3745.
-
-
-LaTeX Warning: Command \textless invalid in math mode on input line 3772.
+LaTeX Warning: Command \textgreater invalid in math mode on input line 3688.
 
 
-LaTeX Warning: Command \textgreater invalid in math mode on input line 3790.
-
-[73]
-
-LaTeX Warning: Command \textless invalid in math mode on input line 3814.
+LaTeX Warning: Command \textless invalid in math mode on input line 3715.
 
 
-LaTeX Warning: Command \textgreater invalid in math mode on input line 3814.
+LaTeX Warning: Command \textgreater invalid in math mode on input line 3733.
+
+[70]
+
+LaTeX Warning: Command \textless invalid in math mode on input line 3757.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 3826.
+LaTeX Warning: Command \textgreater invalid in math mode on input line 3757.
 
 
-LaTeX Warning: Command \textgreater invalid in math mode on input line 3826.
-
-[74]
-
-LaTeX Warning: Command \textless invalid in math mode on input line 3867.
+LaTeX Warning: Command \textless invalid in math mode on input line 3769.
 
 
-LaTeX Warning: Command \textgreater invalid in math mode on input line 3867.
+LaTeX Warning: Command \textgreater invalid in math mode on input line 3769.
 
-[75] <image18.jpeg, id=925, 507.39563pt x 388.45125pt>
+[71]
+
+LaTeX Warning: Command \textless invalid in math mode on input line 3810.
+
+
+LaTeX Warning: Command \textgreater invalid in math mode on input line 3810.
+
+[72] <image18.jpeg, id=810, 507.39563pt x 388.45125pt>
 File: image18.jpeg Graphic file (type jpg)
  <use image18.jpeg>
-Package pdftex.def Info: image18.jpeg used on input line 3974.
+Package pdftex.def Info: image18.jpeg used on input line 3917.
 (pdftex.def)             Requested size: 451.68915pt x 345.81535pt.
- [76] [77 <./image18.jpeg>]
-<image19.jpeg, id=949, 515.01884pt x 397.86537pt>
+ [73] [74 <./image18.jpeg>]
+<image19.jpeg, id=835, 515.01884pt x 397.86537pt>
 File: image19.jpeg Graphic file (type jpg)
  <use image19.jpeg>
-Package pdftex.def Info: image19.jpeg used on input line 4026.
+Package pdftex.def Info: image19.jpeg used on input line 3969.
 (pdftex.def)             Requested size: 448.67789pt x 346.62573pt.
- [78 <./image19.jpeg>]
-<image20.jpeg, id=960, 508.14844pt x 386.94562pt>
+ [75 <./image19.jpeg>]
+<image20.jpeg, id=846, 508.14844pt x 386.94562pt>
 File: image20.jpeg Graphic file (type jpg)
  <use image20.jpeg>
-Package pdftex.def Info: image20.jpeg used on input line 4076.
+Package pdftex.def Info: image20.jpeg used on input line 4019.
 (pdftex.def)             Requested size: 448.67789pt x 341.67044pt.
- [79]
-<image21.jpeg, id=972, 517.18219pt x 395.22656pt>
+ [76]
+<image21.jpeg, id=858, 517.18219pt x 395.22656pt>
 File: image21.jpeg Graphic file (type jpg)
  <use image21.jpeg>
-Package pdftex.def Info: image21.jpeg used on input line 4124.
+Package pdftex.def Info: image21.jpeg used on input line 4067.
 (pdftex.def)             Requested size: 451.68915pt x 345.18916pt.
- [80 <./image20.jpeg>] [81 <./image21.jpeg>]
-<image22.jpeg, id=992, 505.89pt x 380.17032pt>
+ [77 <./image20.jpeg>] [78 <./image21.jpeg>]
+<image22.jpeg, id=881, 505.89pt x 380.17032pt>
 File: image22.jpeg Graphic file (type jpg)
  <use image22.jpeg>
-Package pdftex.def Info: image22.jpeg used on input line 4170.
+Package pdftex.def Info: image22.jpeg used on input line 4113.
 (pdftex.def)             Requested size: 451.68915pt x 339.44688pt.
- [82 <./image22.jpeg>] [83]
-<imagem23Editada.jpeg, id=1013, 354.57469pt x 97.86563pt>
+ [79 <./image22.jpeg>] [80]
+<imagem23Editada.jpeg, id=903, 354.57469pt x 97.86563pt>
 File: imagem23Editada.jpeg Graphic file (type jpg)
  <use imagem23Editada.jpeg>
-Package pdftex.def Info: imagem23Editada.jpeg used on input line 4276.
+Package pdftex.def Info: imagem23Editada.jpeg used on input line 4219.
 (pdftex.def)             Requested size: 451.68915pt x 124.67322pt.
- [84 <./imagem23Editada.jpeg>]
-[85] [86]
+ [81 <./imagem23Editada.jpeg>]
+[82] [83]
 
-LaTeX Warning: Command \textless invalid in math mode on input line 4402.
-
-
-LaTeX Warning: Command \textgreater invalid in math mode on input line 4402.
+LaTeX Warning: Command \textless invalid in math mode on input line 4345.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 4414.
+LaTeX Warning: Command \textgreater invalid in math mode on input line 4345.
 
 
-LaTeX Warning: Command \textgreater invalid in math mode on input line 4414.
+LaTeX Warning: Command \textless invalid in math mode on input line 4357.
 
-<image26.jpeg, id=1052, 496.85625pt x 134.75343pt>
+
+LaTeX Warning: Command \textgreater invalid in math mode on input line 4357.
+
+<image26.jpeg, id=943, 496.85625pt x 134.75343pt>
 File: image26.jpeg Graphic file (type jpg)
  <use image26.jpeg>
-Package pdftex.def Info: image26.jpeg used on input line 4435.
+Package pdftex.def Info: image26.jpeg used on input line 4378.
 (pdftex.def)             Requested size: 451.68915pt x 122.50449pt.
- [87 <./image26.jpeg>]
+ [84 <./image26.jpeg>]
 File: image26.jpeg Graphic file (type jpg)
  <use image26.jpeg>
-Package pdftex.def Info: image26.jpeg used on input line 4466.
+Package pdftex.def Info: image26.jpeg used on input line 4409.
 (pdftex.def)             Requested size: 451.68915pt x 122.50449pt.
- [88]
-[89]
+ [85]
+[86]
 LaTeX Font Info:    Font shape `T1/ua1/bx/it' in size <12> not available
-(Font)              Font shape `T1/ua1/b/it' tried instead on input line 4598.
- <imagem27Editada.jpeg, id=1086, 444.15938pt x 136.25906pt>
+(Font)              Font shape `T1/ua1/b/it' tried instead on input line 4541.
+ <imagem27Editada.jpeg, id=980, 444.15938pt x 136.25906pt>
 File: imagem27Editada.jpeg Graphic file (type jpg)
  <use imagem27Editada.jpeg>
-Package pdftex.def Info: imagem27Editada.jpeg used on input line 4616.
+Package pdftex.def Info: imagem27Editada.jpeg used on input line 4559.
 (pdftex.def)             Requested size: 451.68915pt x 138.56863pt.
- [90]
+ [87]
 LaTeX Font Info:    Font shape `T1/ua1/bx/it' in size <10> not available
-(Font)              Font shape `T1/ua1/b/it' tried instead on input line 4668.
+(Font)              Font shape `T1/ua1/b/it' tried instead on input line 4611.
 
-<image28.jpeg, id=1101, 465.23813pt x 354.57469pt>
+<image28.jpeg, id=994, 465.23813pt x 354.57469pt>
 File: image28.jpeg Graphic file (type jpg)
  <use image28.jpeg>
-Package pdftex.def Info: image28.jpeg used on input line 4669.
+Package pdftex.def Info: image28.jpeg used on input line 4612.
 (pdftex.def)             Requested size: 451.68915pt x 344.26166pt.
- [91 <./imagem27Editada.jpeg>]
-<image29.jpeg, id=1115, 465.99094pt x 344.03531pt>
+ [88 <./imagem27Editada.jpeg>]
+<image29.jpeg, id=1009, 465.99094pt x 344.03531pt>
 File: image29.jpeg Graphic file (type jpg)
  <use image29.jpeg>
-Package pdftex.def Info: image29.jpeg used on input line 4680.
+Package pdftex.def Info: image29.jpeg used on input line 4623.
 (pdftex.def)             Requested size: 451.68915pt x 333.48811pt.
- [92 <./image28.jpeg>] [93 <./image29.jpeg>]
-<image30.jpeg, id=1124, 471.26062pt x 351.56343pt>
+ [89 <./image28.jpeg>] [90 <./image29.jpeg>]
+<image30.jpeg, id=1021, 471.26062pt x 351.56343pt>
 File: image30.jpeg Graphic file (type jpg)
  <use image30.jpeg>
-Package pdftex.def Info: image30.jpeg used on input line 4693.
+Package pdftex.def Info: image30.jpeg used on input line 4636.
 (pdftex.def)             Requested size: 451.68915pt x 336.96597pt.
- [94
+ [91
 
  <./image30.jpeg>]
 
-LaTeX Warning: Command \textless invalid in math mode on input line 4730.
+LaTeX Warning: Command \textless invalid in math mode on input line 4673.
 
 
-LaTeX Warning: Command \textgreater invalid in math mode on input line 4730.
+LaTeX Warning: Command \textgreater invalid in math mode on input line 4673.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 4745.
+LaTeX Warning: Command \textless invalid in math mode on input line 4688.
 
 
-LaTeX Warning: Command \textgreater invalid in math mode on input line 4745.
+LaTeX Warning: Command \textgreater invalid in math mode on input line 4688.
 
-<image31.jpeg, id=1132, 494.59781pt x 59.47218pt>
+<image31.jpeg, id=1031, 494.59781pt x 59.47218pt>
 File: image31.jpeg Graphic file (type jpg)
  <use image31.jpeg>
-Package pdftex.def Info: image31.jpeg used on input line 4769.
+Package pdftex.def Info: image31.jpeg used on input line 4712.
 (pdftex.def)             Requested size: 451.68915pt x 54.31215pt.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 4783.
+LaTeX Warning: Command \textless invalid in math mode on input line 4726.
 
 
-LaTeX Warning: Command \textgreater invalid in math mode on input line 4783.
+LaTeX Warning: Command \textgreater invalid in math mode on input line 4726.
 
-[95 <./image31.jpeg>]
+[92 <./image31.jpeg>]
 
-LaTeX Warning: Command \textless invalid in math mode on input line 4798.
+LaTeX Warning: Command \textless invalid in math mode on input line 4741.
 
 
-LaTeX Warning: Command \textgreater invalid in math mode on input line 4798.
+LaTeX Warning: Command \textgreater invalid in math mode on input line 4741.
 
-<image32.jpeg, id=1140, 501.37312pt x 185.19188pt>
+<image32.jpeg, id=1040, 501.37312pt x 185.19188pt>
 File: image32.jpeg Graphic file (type jpg)
  <use image32.jpeg>
-Package pdftex.def Info: image32.jpeg used on input line 4822.
+Package pdftex.def Info: image32.jpeg used on input line 4765.
 (pdftex.def)             Requested size: 451.68915pt x 166.84915pt.
 
-<image33.jpeg, id=1141, 284.56313pt x 104.64093pt>
+<image33.jpeg, id=1041, 284.56313pt x 104.64093pt>
 File: image33.jpeg Graphic file (type jpg)
  <use image33.jpeg>
-Package pdftex.def Info: image33.jpeg used on input line 4833.
+Package pdftex.def Info: image33.jpeg used on input line 4776.
 (pdftex.def)             Requested size: 379.41888pt x 139.5363pt.
- [96 <./image32.jpeg>]
-<imagem34Editada.jpeg, id=1149, 486.31688pt x 114.4275pt>
+ [93 <./image32.jpeg>]
+<imagem34Editada.jpeg, id=1049, 486.31688pt x 114.4275pt>
 File: imagem34Editada.jpeg Graphic file (type jpg)
  <use imagem34Editada.jpeg>
-Package pdftex.def Info: imagem34Editada.jpeg used on input line 4864.
+Package pdftex.def Info: imagem34Editada.jpeg used on input line 4807.
 (pdftex.def)             Requested size: 451.68915pt x 106.28027pt.
- [97 <./image33.jpeg> <./imagem34Editada.jpeg>] <imagem35Editada.jpeg, id=1156, 478.78876pt x 97.86563pt>
+ [94 <./image33.jpeg> <./imagem34Editada.jpeg>] <imagem35Editada.jpeg, id=1058, 478.78876pt x 97.86563pt>
 File: imagem35Editada.jpeg Graphic file (type jpg)
  <use imagem35Editada.jpeg>
-Package pdftex.def Info: imagem35Editada.jpeg used on input line 4884.
+Package pdftex.def Info: imagem35Editada.jpeg used on input line 4827.
 (pdftex.def)             Requested size: 478.78758pt x 97.86537pt.
 
-Overfull \hbox (23.78758pt too wide) in paragraph at lines 4884--4885
+Overfull \hbox (23.78758pt too wide) in paragraph at lines 4827--4828
  [][] 
  []
 
-[98 <./imagem35Editada.jpeg>] (document290323.bbl (document290323.brf)
+[95 <./imagem35Editada.jpeg>] (document290323.bbl (document290323.brf)
 \tf@brf=\write5
- [99
+ [96
 
 ]
 
@@ -2021,11 +2020,11 @@ Overfull \hbox (71.20284pt too wide) in paragraph at lines 65--65
 santos-[]decidiu-[]me-[]processar>[]$[]. 
  []
 
-[100
+[97
 
-] [101]) (document290323.ind) 
+] [98]) (document290323.ind) 
 AED: lastpage setting LastPage
-[102]
+[99]
 
 Package caption Warning: Unused \captionsetup[table] on input line 61.
 See the caption package documentation for explanation.
@@ -2036,35 +2035,40 @@ See the caption package documentation for explanation.
 
 \tf@lof=\write6
 \tf@toc=\write7
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 4987.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 4987.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 4919.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 4919.
 (document290323.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 4987.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 4987.
-Package rerunfilecheck Info: File `document290323.brf' has not changed.
-(rerunfilecheck)             Checksum: 194443A55EA6263ACC6980D975E4133D;1967.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 4919.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 4919.
 
+
+Package rerunfilecheck Warning: File `document290323.brf' has changed.
+(rerunfilecheck)                Rerun to get bibliographical references right.
+
+Package rerunfilecheck Info: Checksums for `document290323.brf':
+(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
+(rerunfilecheck)             After:  7FBC94F32BACE58414C8F6896D6CB268;1963.
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 4987.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 4919.
  ) 
 Here is how much of TeX's memory you used:
- 20558 strings out of 493673
- 298053 string characters out of 3143961
- 578485 words of memory out of 3000000
- 22567 multiletter control sequences out of 15000+200000
- 124965 words of font info for 227 fonts, out of 3000000 for 9000
+ 20517 strings out of 493673
+ 297772 string characters out of 3143961
+ 577502 words of memory out of 3000000
+ 22538 multiletter control sequences out of 15000+200000
+ 123615 words of font info for 221 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 56i,20n,92p,991b,670s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 56i,20n,92p,991b,667s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathit
 .enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-rm.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmmi12
 .pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/arial/ua1
 b8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/arial/ua1bi8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/aria
 l/ua1r8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/arial/ua1ri8a.pfb>
-Output written on document290323.pdf (103 pages, 3380290 bytes).
+Output written on document290323.pdf (100 pages, 3356776 bytes).
 PDF statistics:
- 1599 PDF objects out of 1728 (max. 8388607)
- 716 named destinations out of 1000 (max. 500000)
- 29704 words of extra memory for PDF output out of 29859 (max. 10000000)
+ 1457 PDF objects out of 1728 (max. 8388607)
+ 712 named destinations out of 1000 (max. 500000)
+ 29701 words of extra memory for PDF output out of 29859 (max. 10000000)
 

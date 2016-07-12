@@ -1,40 +1,40 @@
 \select@language {brazil}
 \select@language {brazil}
-\contentsline {figure}{\numberline {1}{\ignorespaces Exemplo de uso da Hydra\relax }}{22}{figure.caption.10}
-\contentsline {figure}{\numberline {2}{\ignorespaces Exemplo de uso do SqlMap\relax }}{23}{figure.caption.12}
-\contentsline {figure}{\numberline {3}{\ignorespaces Exemplo de uso do Nmap\relax }}{24}{figure.caption.14}
-\contentsline {figure}{\numberline {4}{\ignorespaces Interface do Burp Suite\relax }}{25}{figure.caption.16}
-\contentsline {figure}{\numberline {5}{\ignorespaces Processo de testes\relax }}{27}{figure.caption.19}
-\contentsline {figure}{\numberline {6}{\ignorespaces Configura\IeC {\c c}\IeC {\~a}o Ambiente de Teste\relax }}{33}{figure.caption.26}
-\contentsline {figure}{\numberline {7}{\ignorespaces Resultado mapeamento diret\IeC {\'o}rios do sistema.\relax }}{41}{figure.caption.73}
-\contentsline {figure}{\numberline {8}{\ignorespaces Resultado mapeamento diret\IeC {\'o}rios do sistema a partir da tela de Login.\relax }}{46}{figure.caption.102}
-\contentsline {figure}{\numberline {9}{\ignorespaces Resultado da execu\IeC {\c c}\IeC {\~a}o de testes no campo login utilizando a Hydra.\relax }}{49}{figure.caption.115}
-\contentsline {figure}{\numberline {10}{\ignorespaces Portas encontradas e os servi\IeC {\c c}os que estavam rodando nelas no momento do escaneamento via Nmap.\relax }}{53}{figure.caption.136}
-\contentsline {figure}{\numberline {11}{\ignorespaces Portas encontradas e vers\IeC {\~o}es dos sistemas que elas estavam rodando, no momento do escaneamento via Nmap.\relax }}{54}{figure.caption.140}
-\contentsline {figure}{\numberline {12}{\ignorespaces Portas UDP escaneadas e servi\IeC {\c c}os que estavam rodando nelas no momento do escaneamento via Nmap.\relax }}{56}{figure.caption.144}
-\contentsline {figure}{\numberline {13}{\ignorespaces Rota tra\IeC {\c c}ada pelo Tracerouter - Parte 1\relax }}{57}{figure.caption.148}
-\contentsline {figure}{\numberline {14}{\ignorespaces Rota tra\IeC {\c c}ada pelo Tracerouter - Parte 2\relax }}{58}{figure.caption.149}
-\contentsline {figure}{\numberline {15}{\ignorespaces Vers\IeC {\~a}o do software rodando nas portas escaneadas via Nmap.\relax }}{59}{figure.caption.153}
-\contentsline {figure}{\numberline {16}{\ignorespaces Vers\IeC {\~a}o do software rodando nas portas UDP escaneadas via Nmap.\relax }}{61}{figure.caption.157}
-\contentsline {figure}{\numberline {17}{\ignorespaces Par\IeC {\^a}metros obtidos atrav\IeC {\'e}s do Burp Suite.\relax }}{64}{figure.caption.174}
-\contentsline {figure}{\numberline {18}{\ignorespaces Resultado aplica\IeC {\c c}\IeC {\~a}o SQL Injection via SqlMap.\relax }}{65}{figure.caption.177}
-\contentsline {figure}{\numberline {19}{\ignorespaces Portas TCP escaneadas pelo Nmap.\relax }}{68}{figure.caption.186}
-\contentsline {figure}{\numberline {20}{\ignorespaces Portas UDP escaneadas pelo Nmap.\relax }}{70}{figure.caption.190}
-\contentsline {figure}{\numberline {21}{\ignorespaces Resultado teste XSS.\relax }}{72}{figure.caption.196}
-\contentsline {figure}{\numberline {22}{\ignorespaces Resultado aplica\IeC {\c c}\IeC {\~a}o SQL Injection via SqlMap.\relax }}{77}{figure.caption.217}
-\contentsline {figure}{\numberline {23}{\ignorespaces Resultado explora\IeC {\c c}\IeC {\~a}o Sql Injection no campo validade via SqlMap.\relax }}{78}{figure.caption.221}
-\contentsline {figure}{\numberline {24}{\ignorespaces Resultado explora\IeC {\c c}\IeC {\~a}o Sql Injection no campo vacina via SqlMap.\relax }}{80}{figure.caption.225}
-\contentsline {figure}{\numberline {25}{\ignorespaces Resultado explora\IeC {\c c}\IeC {\~a}o Sql Injection no campo cadastro via SqlMap.\relax }}{81}{figure.caption.229}
-\contentsline {figure}{\numberline {26}{\ignorespaces Resultado explora\IeC {\c c}\IeC {\~a}o Sql Injection no par\IeC {\^a}metro ok via SqlMap\relax }}{82}{figure.caption.233}
-\contentsline {figure}{\numberline {27}{\ignorespaces Par\IeC {\^a}metros da p\IeC {\'a}gina Consulta Servidor obtidos atrav\IeC {\'e}s do Burp Suite.\relax }}{84}{figure.caption.246}
-\contentsline {figure}{\numberline {28}{\ignorespaces Erro exibido no navegador na execu\IeC {\c c}\IeC {\~a}o da requisi\IeC {\c c}\IeC {\~a}o usando o filtro de CORS.\relax }}{87}{figure.caption.258}
-\contentsline {figure}{\numberline {29}{\ignorespaces ~Navegador Firefox impede a conex\IeC {\~a}o quando o filtro de CORS \IeC {\'e} utilizado.\relax }}{88}{figure.caption.262}
-\contentsline {figure}{\numberline {30}{\ignorespaces ~Dados da requisi\IeC {\c c}\IeC {\~a}o \IeC {\`a} pagina Cadastro Servidor capturada pelo Burp Suite.\relax }}{91}{figure.caption.278}
-\contentsline {figure}{\numberline {31}{\ignorespaces Resultado teste de inje\IeC {\c c}\IeC {\~a}o de SQL no campo \emph {Nome}.\relax }}{92}{figure.caption.281}
-\contentsline {figure}{\numberline {32}{\ignorespaces Resultado teste de inje\IeC {\c c}\IeC {\~a}o de SQL no campo Siape.\relax }}{93}{figure.caption.282}
-\contentsline {figure}{\numberline {33}{\ignorespaces Resultado teste de inje\IeC {\c c}\IeC {\~a}o de SQL no campo CPF.\relax }}{94}{figure.caption.283}
-\contentsline {figure}{\numberline {34}{\ignorespaces Console do navegador indicando a deprecia\IeC {\c c}\IeC {\~a}o do atributo \textquotedblleft {}withCredencials\textquotedblright {}.\relax }}{95}{figure.caption.289}
-\contentsline {figure}{\numberline {35}{\ignorespaces Console do navegador indicando a conex\IeC {\~a}o.\relax }}{96}{figure.caption.293}
-\contentsline {figure}{\numberline {36}{\ignorespaces Exploit inciado com sucesso.\relax }}{97}{figure.caption.294}
-\contentsline {figure}{\numberline {37}{\ignorespaces Burp Suite utilizado para captura de par\IeC {\^a}metros no cabe\IeC {\c c}alho de uma requisi\IeC {\c c}\IeC {\~a}o HTTP na tela Relat\IeC {\'o}rio.\relax }}{97}{figure.caption.297}
-\contentsline {figure}{\numberline {38}{\ignorespaces Burp Suite utilizado para captura de par\IeC {\^a}metros no cabe\IeC {\c c}alho de uma requisi\IeC {\c c}\IeC {\~a}o HTTP na tela Impress\IeC {\~a}o de Relat\IeC {\'o}rio.\relax }}{98}{figure.caption.298}
+\contentsline {figure}{\numberline {1}{\ignorespaces Exemplo de uso da Hydra\relax }}{19}{figure.caption.10}
+\contentsline {figure}{\numberline {2}{\ignorespaces Exemplo de uso do SqlMap\relax }}{20}{figure.caption.12}
+\contentsline {figure}{\numberline {3}{\ignorespaces Exemplo de uso do Nmap\relax }}{21}{figure.caption.14}
+\contentsline {figure}{\numberline {4}{\ignorespaces Interface do Burp Suite\relax }}{22}{figure.caption.16}
+\contentsline {figure}{\numberline {5}{\ignorespaces Processo de testes\relax }}{24}{figure.caption.19}
+\contentsline {figure}{\numberline {6}{\ignorespaces Configura\IeC {\c c}\IeC {\~a}o Ambiente de Teste\relax }}{30}{figure.caption.26}
+\contentsline {figure}{\numberline {7}{\ignorespaces Resultado mapeamento diret\IeC {\'o}rios do sistema.\relax }}{38}{figure.caption.73}
+\contentsline {figure}{\numberline {8}{\ignorespaces Resultado mapeamento diret\IeC {\'o}rios do sistema a partir da tela de Login.\relax }}{43}{figure.caption.102}
+\contentsline {figure}{\numberline {9}{\ignorespaces Resultado da execu\IeC {\c c}\IeC {\~a}o de testes no campo login utilizando a Hydra.\relax }}{46}{figure.caption.115}
+\contentsline {figure}{\numberline {10}{\ignorespaces Portas encontradas e os servi\IeC {\c c}os que estavam rodando nelas no momento do escaneamento via Nmap.\relax }}{50}{figure.caption.136}
+\contentsline {figure}{\numberline {11}{\ignorespaces Portas encontradas e vers\IeC {\~o}es dos sistemas que elas estavam rodando, no momento do escaneamento via Nmap.\relax }}{51}{figure.caption.140}
+\contentsline {figure}{\numberline {12}{\ignorespaces Portas UDP escaneadas e servi\IeC {\c c}os que estavam rodando nelas no momento do escaneamento via Nmap.\relax }}{53}{figure.caption.144}
+\contentsline {figure}{\numberline {13}{\ignorespaces Rota tra\IeC {\c c}ada pelo Tracerouter - Parte 1\relax }}{54}{figure.caption.148}
+\contentsline {figure}{\numberline {14}{\ignorespaces Rota tra\IeC {\c c}ada pelo Tracerouter - Parte 2\relax }}{55}{figure.caption.149}
+\contentsline {figure}{\numberline {15}{\ignorespaces Vers\IeC {\~a}o do software rodando nas portas escaneadas via Nmap.\relax }}{56}{figure.caption.153}
+\contentsline {figure}{\numberline {16}{\ignorespaces Vers\IeC {\~a}o do software rodando nas portas UDP escaneadas via Nmap.\relax }}{58}{figure.caption.157}
+\contentsline {figure}{\numberline {17}{\ignorespaces Par\IeC {\^a}metros obtidos atrav\IeC {\'e}s do Burp Suite.\relax }}{61}{figure.caption.174}
+\contentsline {figure}{\numberline {18}{\ignorespaces Resultado aplica\IeC {\c c}\IeC {\~a}o SQL Injection via SqlMap.\relax }}{62}{figure.caption.177}
+\contentsline {figure}{\numberline {19}{\ignorespaces Portas TCP escaneadas pelo Nmap.\relax }}{65}{figure.caption.186}
+\contentsline {figure}{\numberline {20}{\ignorespaces Portas UDP escaneadas pelo Nmap.\relax }}{67}{figure.caption.190}
+\contentsline {figure}{\numberline {21}{\ignorespaces Resultado teste XSS.\relax }}{69}{figure.caption.196}
+\contentsline {figure}{\numberline {22}{\ignorespaces Resultado aplica\IeC {\c c}\IeC {\~a}o SQL Injection via SqlMap.\relax }}{74}{figure.caption.217}
+\contentsline {figure}{\numberline {23}{\ignorespaces Resultado explora\IeC {\c c}\IeC {\~a}o Sql Injection no campo validade via SqlMap.\relax }}{75}{figure.caption.221}
+\contentsline {figure}{\numberline {24}{\ignorespaces Resultado explora\IeC {\c c}\IeC {\~a}o Sql Injection no campo vacina via SqlMap.\relax }}{77}{figure.caption.225}
+\contentsline {figure}{\numberline {25}{\ignorespaces Resultado explora\IeC {\c c}\IeC {\~a}o Sql Injection no campo cadastro via SqlMap.\relax }}{78}{figure.caption.229}
+\contentsline {figure}{\numberline {26}{\ignorespaces Resultado explora\IeC {\c c}\IeC {\~a}o Sql Injection no par\IeC {\^a}metro ok via SqlMap\relax }}{79}{figure.caption.233}
+\contentsline {figure}{\numberline {27}{\ignorespaces Par\IeC {\^a}metros da p\IeC {\'a}gina Consulta Servidor obtidos atrav\IeC {\'e}s do Burp Suite.\relax }}{81}{figure.caption.246}
+\contentsline {figure}{\numberline {28}{\ignorespaces Erro exibido no navegador na execu\IeC {\c c}\IeC {\~a}o da requisi\IeC {\c c}\IeC {\~a}o usando o filtro de CORS.\relax }}{84}{figure.caption.258}
+\contentsline {figure}{\numberline {29}{\ignorespaces ~Navegador Firefox impede a conex\IeC {\~a}o quando o filtro de CORS \IeC {\'e} utilizado.\relax }}{85}{figure.caption.262}
+\contentsline {figure}{\numberline {30}{\ignorespaces ~Dados da requisi\IeC {\c c}\IeC {\~a}o \IeC {\`a} pagina Cadastro Servidor capturada pelo Burp Suite.\relax }}{88}{figure.caption.278}
+\contentsline {figure}{\numberline {31}{\ignorespaces Resultado teste de inje\IeC {\c c}\IeC {\~a}o de SQL no campo \emph {Nome}.\relax }}{89}{figure.caption.281}
+\contentsline {figure}{\numberline {32}{\ignorespaces Resultado teste de inje\IeC {\c c}\IeC {\~a}o de SQL no campo Siape.\relax }}{90}{figure.caption.282}
+\contentsline {figure}{\numberline {33}{\ignorespaces Resultado teste de inje\IeC {\c c}\IeC {\~a}o de SQL no campo CPF.\relax }}{91}{figure.caption.283}
+\contentsline {figure}{\numberline {34}{\ignorespaces Console do navegador indicando a deprecia\IeC {\c c}\IeC {\~a}o do atributo \textquotedblleft {}withCredencials\textquotedblright {}.\relax }}{92}{figure.caption.289}
+\contentsline {figure}{\numberline {35}{\ignorespaces Console do navegador indicando a conex\IeC {\~a}o.\relax }}{93}{figure.caption.293}
+\contentsline {figure}{\numberline {36}{\ignorespaces Exploit inciado com sucesso.\relax }}{94}{figure.caption.294}
+\contentsline {figure}{\numberline {37}{\ignorespaces Burp Suite utilizado para captura de par\IeC {\^a}metros no cabe\IeC {\c c}alho de uma requisi\IeC {\c c}\IeC {\~a}o HTTP na tela Relat\IeC {\'o}rio.\relax }}{94}{figure.caption.297}
+\contentsline {figure}{\numberline {38}{\ignorespaces Burp Suite utilizado para captura de par\IeC {\^a}metros no cabe\IeC {\c c}alho de uma requisi\IeC {\c c}\IeC {\~a}o HTTP na tela Impress\IeC {\~a}o de Relat\IeC {\'o}rio.\relax }}{95}{figure.caption.298}
