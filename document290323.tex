@@ -42,8 +42,8 @@
 \usepackage{pdfpages}
 \usepackage[normalem]{ulem}
 \usepackage{setspace}
+\let\newfloat\undefined
 \usepackage{floatrow}
-\usepackage[hidelinks]{hyperref}
 \usepackage{booktabs}
 \usepackage[section]{placeins}
 \usepackage[font=footnotesize]{caption}
@@ -63,7 +63,6 @@
 \floatsetup[figure]{capposition=bottom}
 \captionsetup[figure]{justification=centering,singlelinecheck=false}
 \renewcommand{\familydefault}{\sfdefault}
-\ifdefined\OneHalfSpacing \OneHalfSpacing \else \onehalfspacing \fi
 
 
 
@@ -370,25 +369,13 @@
 \textbf{ESTUDO SOBRE PENTEST APLICADO NA ANÁLISE DE SEGURANÇA EM SISTEMA~WEB}%
 }%
 
-
-
-\newcommand\subtitulo{%
-%
-}%
-
-
-
 \autor{%
 DIEGO ANTÔNIO FERREIRA\\PÂMELA BEATRIZ LINS DE SOUZA%
 }%
 
-
-
 \local{%
 Recife%
 }%
-
-
 
 \data{%
 Julho de 2016%
